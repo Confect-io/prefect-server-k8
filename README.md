@@ -8,7 +8,7 @@ This was developed and tested on Helm Version 3.1.2.
 
 First you'll need to add this repository to helm:
 ```bash
-helm repo add prefect-server-k8 https://szelenka.github.io/prefect-server-k8/charts
+helm repo add prefect-server-k8 https://Confect-io.github.io/prefect-server-k8/charts
 ```
 
 It should now show up on your system:
@@ -16,7 +16,7 @@ It should now show up on your system:
 helm repo list
 
 NAME                    URL                                                 
-prefect-server-k8       https://szelenka.github.io/prefect-server-k8/charts
+prefect-server-k8       https://Confect-io.github.io/prefect-server-k8/charts
 ```
 
 The last step is to perform an installation. In most cases you'll likely want to review the
